@@ -12,7 +12,7 @@
 	<artifactId>shoe-ShopingCart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>shoe-ShopingCart</name>
-	<description>shoe Shopping Cart</description>
+	<description>shoe Shoping Cart</description>
 
 	<properties>
 		<java.version>1.8</java.version>
